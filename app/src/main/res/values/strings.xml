@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Test app</string>
+    <string name="title">Các kiểu lập trình sự kiện</string>
+    
+    <string name="a">Số a:</string>
+    <string name="b">Số b:</string>
+    
+    <string name="tong">Tổng 2 số</string>
+    <string name="hieu">Hiệu 2 số</string>
+    <string name="tich">Tích 2 số</string>
+    <string name="thuong">Thương 2 số</string>
+    <string name="uscln">Ước số chung lớn nhất</string>
+    <string name="thoat">Thoát chương trình</string>
+</resources>
